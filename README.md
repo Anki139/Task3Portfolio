@@ -71,3 +71,10 @@ This project serves as a comprehensive personal portfolio template for any aspir
 
 Whether you are looking to land your first job or just want a clean online presence, this portfolio site is a great starting point. ✨
 
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/a1fde810-87b5-4261-9563-de155f35ab51)
+![Image](https://github.com/user-attachments/assets/36e89f61-38a7-4059-a046-43c36e29d778)
+![Image](https://github.com/user-attachments/assets/b106e0cd-d620-4e5f-b358-1cc06bee4e0d)
+![Image](https://github.com/user-attachments/assets/0f0ff488-3f17-4b31-be95-961247b0cabc)
+![Image](https://github.com/user-attachments/assets/34c2709a-5501-4121-b0d4-012343d4c270)
